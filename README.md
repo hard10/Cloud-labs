@@ -1,11 +1,11 @@
 # Cloud-labs
-## 👨‍💻 About Me
+## About Me
 
 Hello! I'm Gabriel, a Cloud Computing student passionate about Cloud Security and Cybersecurity.
 
 I'm currently developing my technical skills in cloud infrastructure, Linux, networking, and security.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - Cloud Computing (AWS)
 - Linux Administration
@@ -14,7 +14,7 @@ I'm currently developing my technical skills in cloud infrastructure, Linux, net
 - Python Programming
 - Cloud Security Fundamentals
 
-## 🚀 Projects
+## Projects
 
 ### AWS EC2 Linux Lab
 Hands-on practice with AWS EC2, Linux server deployment, SSH connections, and cloud infrastructure security.
@@ -25,11 +25,11 @@ Practical networking studies using Cisco Networking Academy and network fundamen
 ### Cloud Security Labs
 Exploring cloud security concepts, identity and access management, and security best practices.
 
-## 🎯 Career Objective
+## Career Objective
 
 Building a career in Cloud Security by developing practical skills in cloud infrastructure, security operations, and cybersecurity.
 
-## 📚 Currently Learning
+## Currently Learning
 
 - AWS Cloud Computing
 - Linux
@@ -37,7 +37,7 @@ Building a career in Cloud Security by developing practical skills in cloud infr
 - Cloud Security
 - Python
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/gabriel-silva-5b1129373
 - Email: gabrielhard0111@gmail.com
